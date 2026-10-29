@@ -194,4 +194,4 @@ The Arduino Nano and ESP32 communicate using UART at **9600 baud, 8N1**.
 
 ## Example Blynk Dashboard
 
-![Example Blynk Dashboard](Circuit_Diagram/Blynk_Dashboard_Example.png)
+![Example Blynk Dashboard](Circuit_Diagram/Blynk_Dashboard_Example.jpeg)
