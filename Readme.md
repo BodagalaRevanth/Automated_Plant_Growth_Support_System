@@ -191,3 +191,7 @@ The Arduino Nano and ESP32 communicate using UART at **9600 baud, 8N1**.
 | GND | GND | Common ground |
 
 > **Voltage Level:** Arduino Nano uses 5 V logic while ESP32 uses 3.3 V logic. A voltage divider or level shifter must be used between Arduino D1/TX and ESP32 GPIO16/RX2. ESP32 GPIO17/TX2 can be connected directly to Arduino D0/RX.
+
+## Example Blynk Dashboard
+
+![Example Blynk Dashboard](Circuit_Diagram/Blynk_Dashboard_Example.png)
